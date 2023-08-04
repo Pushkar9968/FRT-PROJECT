@@ -37,6 +37,7 @@ You can access the live demo of the website at [[https://www.yogalife-demo.com](
 - HTML5
 - CSS3
 - JavaScript
+- Azure Static web apps
 
 
 ## Contributing
