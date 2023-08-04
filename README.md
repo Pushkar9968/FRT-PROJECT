@@ -44,6 +44,4 @@ You can access the live demo of the website at [[https://www.yogalife-demo.com](
 We welcome contributions from the community to enhance the YOGA LIFE project. If you find any bugs or have suggestions for new features, please open an issue or submit a pull request. For major changes, please discuss them with the project maintainers first.
 
 
-We hope that YOGA LIFE helps people in their journey towards a healthier and happier life through yoga. If you have any questions or feedback, feel free to reach out to us at contact@yogalife.com.
-
 Namaste 🙏
